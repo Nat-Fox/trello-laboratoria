@@ -1,0 +1,38 @@
+body {
+    background-color: #026AA7;
+    color: white;
+    padding: 20px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    border: 1.5px solid;
+    margin-top: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    -webkit-box-shadow: 1px 1px 5px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow: 1px 1px 5px 0px rgba(50, 50, 50, 0.75);
+    box-shadow: 1px 1px 5px 0px rgba(50, 50, 50, 0.75);
+}
+
+.add-lista {
+    text-align: left;
+    border: 1px solid;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    -webkit-box-shadow: 1px 1px 5px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow: 1px 1px 5px 0px rgba(50, 50, 50, 0.75);
+    box-shadow: 1px 1px 5px 0px rgba(50, 50, 50, 0.75);
+}
+
+.button {
+    background-color: #e7e7e7;
+    border: none;
+    color: gray;
+    padding: 4px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 5px 0px;
+    cursor: pointer;
+}
